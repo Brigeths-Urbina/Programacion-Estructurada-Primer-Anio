@@ -1,5 +1,5 @@
 # Programacion-Estructurada-Primer-Anio
-Mi primer Repo 
+
 # 👋 Hola, soy Brigeths Howard Urbina Cruz
 
 Soy estudiante de Ingeniería en Computación apasionado por la programación.  
